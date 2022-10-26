@@ -24,10 +24,12 @@ os.chdir(r'C:\Users\ThiagoBluhm\OneDrive - Grupo Portfolio\Documentos\ESTUDO\sha
 # In[82]:
 
 
-sharepoint_base_url = 'https://grupoportfoliocombr.sharepoint.com/sites/bi/'
-sharepoint_user = 'thiago.bluhm@portfoliotech.com.br'
+sharepoint_base_url = 'https://yourdomain.sharepoint.com/sites/bi/'
+sharepoint_user = 'your_user'
 #essa senha é gerada pela conta do usuario e deve ser a senha de APP
-sharepoint_password = 'lbnshzkfmhzylrry' 
+sharepoint_password = 'yourpass_to_application_take_into_account_'
+#go to security info's, that's it into yours sharepoint account and ++ ADD ENTER METHOD
+#choice the APPLICATION PASS and after change here... it's simple...
 ####################################################################
 pasta_no_sharepoint = '/sites/bi/Pasta/Consulting/Laredo'
 
