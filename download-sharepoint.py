@@ -11,7 +11,6 @@ from office365.sharepoint.client_context import ClientContext
 from office365.sharepoint.files.file import File 
 
 import requests
-import pandas as pd
 import io
 
 import os
